@@ -1,14 +1,26 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "Лабораторная работа №1",
+        "description": "Разметка личной страницы, разработка UML Use Case",
+        "preview": "http://elitebusinessmagazine.co.uk/cache/com_zoo/images/Tech%20entrepreneurs%20weigh%20into%20Peter%20Thiels%20claim%20that%20there%20are%20no%20successful%20tech%20companies%20in%20Europe%20-%20EliteBusinessMagazine_bb2e54b53f02f5efd6d981a041def695.jpg"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная работа №2",
+        "description": "Заполнение личной страницы, разработка UML Class",
+        "preview": "img/UMLclass.jpg"
+    },
+        {
+        "id": 3,
+        "title": "Мой план",
+        "description": "План работы в семестре",
+        "preview": "https://a.d-cd.net/b698274s-960.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Семинары",
+        "description": "Задания семинаров",
+        "preview": "https://a.d-cd.net/9b08bces-1920.jpg"
     }
 ]
